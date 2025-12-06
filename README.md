@@ -1,10 +1,13 @@
-## Dell Precision 5560 hackintosh
+## Dell Precision 5560 hackintosh (Sonoma 14.8.2)
 
 ## Overview
 
 This is EFI folder contain everything needed to bootable to OpenCore and running on Dell Precision 5560 laptop.
 
+![Screenshots](images/sonoma.png "macOS Sonoma screenshots")
+
 The parameters below are not the final ones yet.
+
 
 ## Status
 
@@ -25,3 +28,10 @@ The parameters below are not the final ones yet.
 | -------- | ------ |
 | AppStore |  ✅  |
 | Sleep    |  ❌  |
+
+## macOS versions that can be installed
+
+- Tahoe (need to be swapped out to a compatible Wi-Fi card)
+- Sequoia (need to be swapped out to a compatible Wi-Fi card)
+- Sonoma
+- Ventura
