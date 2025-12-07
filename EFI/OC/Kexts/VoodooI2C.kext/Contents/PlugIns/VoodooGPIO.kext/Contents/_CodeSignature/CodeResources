@@ -3,9 +3,71 @@
 <plist version="1.0">
 <dict>
 	<key>files</key>
-	<dict/>
+	<dict>
+		<key>Resources/TigerLake-LP/VoodooGPIOTigerLakeH.cpp</key>
+		<data>
+		93vytPGgHMFq/BVulPI4MQZUvDQ=
+		</data>
+		<key>Resources/TigerLake-LP/VoodooGPIOTigerLakeH.hpp</key>
+		<data>
+		nlbRzJGsteR4Jewj7UNKjCRd+1s=
+		</data>
+		<key>Resources/TigerLake-LP/VoodooGPIOTigerLakeLP.cpp</key>
+		<data>
+		nB8buVEOQXuT3gnGD85azNRdtMw=
+		</data>
+		<key>Resources/TigerLake-LP/VoodooGPIOTigerLakeLP.hpp</key>
+		<data>
+		E0Mz65ckKarSmVg4taee0gw81h8=
+		</data>
+	</dict>
 	<key>files2</key>
-	<dict/>
+	<dict>
+		<key>Resources/TigerLake-LP/VoodooGPIOTigerLakeH.cpp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			93vytPGgHMFq/BVulPI4MQZUvDQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			Kbx1rClcShg2veT/GMD5NJJdu9g7IbLNkfs5tyKl0Cw=
+			</data>
+		</dict>
+		<key>Resources/TigerLake-LP/VoodooGPIOTigerLakeH.hpp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nlbRzJGsteR4Jewj7UNKjCRd+1s=
+			</data>
+			<key>hash2</key>
+			<data>
+			N7Si6z9UokyVZWmDddLTsDc1r3xZBD5GFYtJ31QDAuc=
+			</data>
+		</dict>
+		<key>Resources/TigerLake-LP/VoodooGPIOTigerLakeLP.cpp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nB8buVEOQXuT3gnGD85azNRdtMw=
+			</data>
+			<key>hash2</key>
+			<data>
+			49aeKvCPwKP5QD6V9tHWJs0RGfj+EkAqXQSXtFJA/QY=
+			</data>
+		</dict>
+		<key>Resources/TigerLake-LP/VoodooGPIOTigerLakeLP.hpp</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E0Mz65ckKarSmVg4taee0gw81h8=
+			</data>
+			<key>hash2</key>
+			<data>
+			74hlmxZ6brRGqua14SwQi4fS6F65flSFLB7RNwU7e9E=
+			</data>
+		</dict>
+	</dict>
 	<key>rules</key>
 	<dict>
 		<key>^Resources/</key>

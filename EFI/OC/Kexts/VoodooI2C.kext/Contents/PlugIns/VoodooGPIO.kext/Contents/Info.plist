@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>23H124</string>
+	<string>22G630</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -31,15 +31,15 @@
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>13.3</string>
+	<string>14.0</string>
 	<key>DTSDKBuild</key>
-	<string>22E245</string>
+	<string>23A334</string>
 	<key>DTSDKName</key>
-	<string>macosx13.3</string>
+	<string>macosx14.0</string>
 	<key>DTXcode</key>
-	<string>1431</string>
+	<string>1500</string>
 	<key>DTXcodeBuild</key>
-	<string>14E300c</string>
+	<string>15A240d</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>VoodooGPIOAMD</key>
@@ -122,6 +122,19 @@
 			<key>IOProviderClass</key>
 			<string>IOService</string>
 		</dict>
+		<key>VoodooGPIOTigerLakeH</key>
+		<dict>
+			<key>CFBundleIdentifier</key>
+			<string>org.coolstar.VoodooGPIO</string>
+			<key>IOClass</key>
+			<string>VoodooGPIOTigerLakeH</string>
+			<key>IONameMatch</key>
+			<array>
+				<string>INT34C6</string>
+			</array>
+			<key>IOProviderClass</key>
+			<string>IOService</string>
+		</dict>
 		<key>VoodooGPIOTigerLakeLP</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
@@ -131,6 +144,7 @@
 			<key>IONameMatch</key>
 			<array>
 				<string>INTC1055</string>
+				<string>INT34C5</string>
 			</array>
 			<key>IOProviderClass</key>
 			<string>IOService</string>
